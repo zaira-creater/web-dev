@@ -1,0 +1,23 @@
+#one{
+    height: 300px;
+    width: 400px;
+    background-color: blue;
+    background-image: url(IMG-20211110-WA0025.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+body{
+    background-image: url(IMG_20210714_185728_915.jpg);
+    background-size: auto;
+    background-position: center;
+}
+div{
+    border: 2px solid red;
+    height: 500px;
+    width: 300px;
+    background-image: url(IMG-20211110-WA0054.jpg);
+    background-size: 200px;
+    background-position: 200px;
+    background-repeat: no-repeat;
+}

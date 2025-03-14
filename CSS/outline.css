@@ -1,0 +1,11 @@
+div{
+    border:2px solid violet;
+height: 300px;
+    outline-width: 2px;
+    outline-style: solid;
+    outline-color: blue;
+    outline-offset: 10px solid brown;
+
+    
+
+}
